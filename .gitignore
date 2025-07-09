@@ -1,0 +1,54 @@
+# 🔧 Build & firmware artifacts
+*.o
+*.elf
+*.bin
+*.hex
+*.eep
+*.map
+*.d
+build/
+dist/
+
+# 📐 FreeCAD & thiết kế 3D
+*.FCStd1
+*.FCBak
+*.bak
+*.tmp
+*.log
+*.swp
+*.swo
+
+# 🧠 Python & script phụ
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# 📂 IDE & tool
+.vscode/
+.idea/
+*.code-workspace
+
+# 💾 Hệ điều hành
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# 📜 G-code nếu được generate tự động
+*.nc
+*.gcode
+
+# 🤖 ROS / colcon / workspace (nếu dùng)
+install/
+log/
+build/
+*.launch.pyc
+*.launch.py~
+
+# 🧪 Arduino backup (thư viện auto-gen)
+*.ino.cpp
+*.ino.d
+*.ino.elf
+*.ino.hex
+*.ino.bin
