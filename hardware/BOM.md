@@ -6,12 +6,12 @@
 
 ## Khung & truyền động
 
-| Tên linh kiện                 | Số lượng | Ghi chú                              | Link mua gợi ý                      |
-| ----------------------------- | -------- | ------------------------------------ | ----------------------------------- |
-| Nhôm định hình 2020 (20×20mm) | \~6m     | Cắt theo kích thước khung            | [Shopee](https://shopee.vn) / Nshop |
-| Ray trượt tròn 8mm            | 6 thanh  | 2 cho mỗi trục X, Y, Z (\~300–400mm) | Shopee / CNC3DS                     |
-| Vòng bi trượt LM8UU           | 12 cái   | Mỗi ray cần 2 vòng bi                | Shopee / Nshop                      |
-| Trục vitme T8 (lead screw)    | 3 bộ     | Gồm đai ốc đồng + khớp nối coupler   | Nshop / Shopee                      |
+| Tên linh kiện                 | Số lượng | Ghi chú                              | Link mua gợi ý                      | Price    |
+| ----------------------------- | -------- | ------------------------------------ | ----------------------------------- | -------- |
+| Nhôm định hình 2020 (20×20mm) | \~6m     | Cắt theo kích thước khung            | [Shopee](https://shopee.vn) / Nshop | 75000/1m |
+| Ray trượt tròn 8mm            | 6 thanh  | 2 cho mỗi trục X, Y, Z (\~300–400mm) | Shopee / CNC3DS                     |          |
+| Vòng bi trượt LM8UU           | 12 cái   | Mỗi ray cần 2 vòng bi                | Shopee / Nshop                      |          |
+| Trục vitme T8 (lead screw)    | 3 bộ     | Gồm đai ốc đồng + khớp nối coupler   | Nshop / Shopee                      |          |
 
 ---
 
